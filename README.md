@@ -9,7 +9,7 @@
  
 > Finally it will generate for you a password consists of number of characters that you wrote it.
 
-### used tools
+### Used technology
 > Python.
 
 
