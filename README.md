@@ -12,4 +12,10 @@
 ### Used technology
 > Python.
 
+>String Lib.
+
+>Random Lib.
+
+>Spyder. 
+
 
